@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">assignment4</string>
+    <string name="position">Position</string>
+    <string name="google_civic_information_api"><u>Google Civic Information API</u></string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="data_provided_by">Data provided by</string>
+    <string name="_2022_gabriella_hoover">Ⓒ 2022, Gabriella Hoover</string>
+    <string name="civil_advocacy">Civil Advocacy</string>
+</resources>
